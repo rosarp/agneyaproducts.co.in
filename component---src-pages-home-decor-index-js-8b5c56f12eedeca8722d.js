@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{CMw9:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),o=n.n(a),r=(n("Wbzz"),n("Bl7J")),i=n("vrFN");t.default=function(){return o.a.createElement(r.a,null,o.a.createElement(i.a,{title:"Home Decor"}),o.a.createElement("div",{style:{maxWidth:"300px",marginBottom:"1.45rem"}},"Coming Soon"))}}}]);
+//# sourceMappingURL=component---src-pages-home-decor-index-js-8b5c56f12eedeca8722d.js.map
